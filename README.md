@@ -1,2 +1,2 @@
-# Dar Site
- Dar test website
+# Dar Test Site
+ Prototyping the Blancheddar Website
